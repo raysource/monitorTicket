@@ -6,6 +6,8 @@ python语言编写，使用selenium,curl_cffi等类库
 
 在www.pushplus.plus注册账号，用来发送微信通知信息
 
+在push_list.txt里配置在pushplus.plus注册账号的token。
+
 
 
 
